@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Actions</string>
+    <string name="make_a_call">Make A Call</string>
+    <string name="show_location">Show Location</string>
+    <string name="show_webpage">Show Webpage</string>
+    <string name="show_all">Show All</string>
+</resources>
